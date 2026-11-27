@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/103604/RiderProjects/Easy Help/Easy Help/Easy Help.csproj": {}
+    "/Users/103833/RiderProjects/easy-help/Easy Help/Easy Help.csproj": {}
   },
   "projects": {
-    "/Users/103604/RiderProjects/Easy Help/Easy Help/Easy Help.csproj": {
+    "/Users/103833/RiderProjects/easy-help/Easy Help/Easy Help.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/103604/RiderProjects/Easy Help/Easy Help/Easy Help.csproj",
+        "projectUniqueName": "/Users/103833/RiderProjects/easy-help/Easy Help/Easy Help.csproj",
         "projectName": "Easy Help",
-        "projectPath": "/Users/103604/RiderProjects/Easy Help/Easy Help/Easy Help.csproj",
-        "packagesPath": "/Users/103604/.nuget/packages/",
-        "outputPath": "/Users/103604/RiderProjects/Easy Help/Easy Help/obj/",
+        "projectPath": "/Users/103833/RiderProjects/easy-help/Easy Help/Easy Help.csproj",
+        "packagesPath": "/Users/103833/.nuget/packages/",
+        "outputPath": "/Users/103833/RiderProjects/easy-help/Easy Help/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/103604/.nuget/NuGet/NuGet.Config"
+          "/Users/103833/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -43,6 +43,12 @@
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
+          "dependencies": {
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -62,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/Users/103604/.dotnet/sdk/10.0.404/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/Users/103833/.dotnet/sdk/10.0.404/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
