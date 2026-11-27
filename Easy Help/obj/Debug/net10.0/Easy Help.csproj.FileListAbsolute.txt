@@ -1,0 +1,97 @@
+/Users/103604/RiderProjects/Easy Help/Easy Help/bin/Debug/net10.0/appsettings.Development.json
+/Users/103604/RiderProjects/Easy Help/Easy Help/bin/Debug/net10.0/appsettings.json
+/Users/103604/RiderProjects/Easy Help/Easy Help/bin/Debug/net10.0/Easy Help.staticwebassets.runtime.json
+/Users/103604/RiderProjects/Easy Help/Easy Help/bin/Debug/net10.0/Easy Help.staticwebassets.endpoints.json
+/Users/103604/RiderProjects/Easy Help/Easy Help/bin/Debug/net10.0/Easy Help
+/Users/103604/RiderProjects/Easy Help/Easy Help/bin/Debug/net10.0/Easy Help.deps.json
+/Users/103604/RiderProjects/Easy Help/Easy Help/bin/Debug/net10.0/Easy Help.runtimeconfig.json
+/Users/103604/RiderProjects/Easy Help/Easy Help/bin/Debug/net10.0/Easy Help.dll
+/Users/103604/RiderProjects/Easy Help/Easy Help/bin/Debug/net10.0/Easy Help.pdb
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/rpswa.dswa.cache.json
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/Easy Help.GeneratedMSBuildEditorConfig.editorconfig
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/Easy Help.AssemblyInfoInputs.cache
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/Easy Help.AssemblyInfo.cs
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/Easy Help.csproj.CoreCompileInputs.cache
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/Easy Help.MvcApplicationPartsAssemblyInfo.cache
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/Easy Help.RazorAssemblyInfo.cache
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/Easy Help.RazorAssemblyInfo.cs
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/scopedcss/bundle/Easy Help.styles.css
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/scopedcss/projectbundle/Easy Help.bundle.scp.css
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/ia0v5vtoeo-{0}-lugek5hnai-lugek5hnai.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/jd1tk5d7xh-{0}-61n19gt1b8-61n19gt1b8.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/ld2zcc4pdq-{0}-fr7q2aak1r-fr7q2aak1r.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/9g3jouc1hg-{0}-bqjiyaj88i-bqjiyaj88i.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/kidy60u8hy-{0}-c2jlpeoesf-c2jlpeoesf.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/1ycenzyjky-{0}-erw9l3u2r3-erw9l3u2r3.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/rd7svym0fh-{0}-aexeepp0ev-aexeepp0ev.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/rsrd8sfs4s-{0}-d7shbmvgxk-d7shbmvgxk.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/r0ah5k37tj-{0}-ausgxo2sd3-ausgxo2sd3.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/9zx9ec50la-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/1fx9l8lsfb-{0}-cosvhxvwiu-cosvhxvwiu.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/x8622ch9r6-{0}-ub07r2b239-ub07r2b239.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/5kkyqbvi8b-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/50zpurxzyu-{0}-b7pk76d08c-b7pk76d08c.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/ov0y9rt5lz-{0}-fsbi9cje9m-fsbi9cje9m.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/l6la3untto-{0}-rzd6atqjts-rzd6atqjts.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/a7yicfbq9b-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/flnee7am05-{0}-dxx9fxp4il-dxx9fxp4il.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/zz907u2h8x-{0}-jd9uben2k1-jd9uben2k1.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/2dy92qi7wz-{0}-khv3u5hwcm-khv3u5hwcm.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/6pyun0alkp-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/92a3bmcsfn-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/p7if3ol1wl-{0}-c2oey78nd0-c2oey78nd0.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/b84h2kzzog-{0}-tdbxkamptv-tdbxkamptv.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/nbdrsgiean-{0}-j5mq2jizvt-j5mq2jizvt.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/2mxg0querz-{0}-06098lyss8-06098lyss8.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/wx7a85e0gu-{0}-nvvlpmu67g-nvvlpmu67g.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/uhjx6i7t47-{0}-s35ty4nyc5-s35ty4nyc5.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/twxfhf8nfc-{0}-pj5nd1wqec-pj5nd1wqec.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/8tv9ekvizi-{0}-46ein0sx1k-46ein0sx1k.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/5ddp3976ba-{0}-v0zj4ognzu-v0zj4ognzu.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/2waqvgfv4v-{0}-37tfw0ft22-37tfw0ft22.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/3d55fld4sf-{0}-hrwsygsryq-hrwsygsryq.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/va0oynaumi-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/3felbpgqau-{0}-ft3s53vfgj-ft3s53vfgj.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/l4y5amkr9w-{0}-6cfz1n2cew-6cfz1n2cew.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/xczdv9nm3p-{0}-6pdc2jztkx-6pdc2jztkx.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/bf82d43jnt-{0}-493y06b0oq-493y06b0oq.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/t0gq8i175o-{0}-iovd86k7lj-iovd86k7lj.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/39d9kisgus-{0}-vr1egmr9el-vr1egmr9el.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/i892dn0utd-{0}-kbrnm935zg-kbrnm935zg.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/5zjgaoykqu-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/noi18zikya-{0}-y7v9cxd14o-y7v9cxd14o.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/otdlr3b41l-{0}-notf2xhcfb-notf2xhcfb.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/8g2iuvp74x-{0}-h1s4sie4z3-h1s4sie4z3.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/lr0p2jcc5x-{0}-63fj8s7r0e-63fj8s7r0e.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/il0xw01i7d-{0}-0j3bgjxly4-0j3bgjxly4.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/znheyp30q3-{0}-47otxtyo56-47otxtyo56.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/1ilerip3ns-{0}-4v8eqarkd7-4v8eqarkd7.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/03xkxwgniy-{0}-l3n5xuwxn8-l3n5xuwxn8.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/5evfzqu8ii-{0}-ilo7uva0vt-ilo7uva0vt.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/v8mgus79y5-{0}-qlccset4i1-qlccset4i1.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/4yc7g80wcz-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/4tkspeqk8z-{0}-ag7o75518u-ag7o75518u.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/3wn4w0e425-{0}-xzw0cte36n-xzw0cte36n.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/2iddjatl0q-{0}-0i3buxo5is-0i3buxo5is.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/l79vrq78yi-{0}-o1o13a6vjx-o1o13a6vjx.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/vcow82l0x6-{0}-ttgo8qnofa-ttgo8qnofa.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/ex19yfumdu-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/g8dztnt8pz-{0}-muycvpuwrr-muycvpuwrr.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/d9f7jbjkb8-{0}-87fc7y1x7t-87fc7y1x7t.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/g2lxix4g7a-{0}-jfsiqqwiad-jfsiqqwiad.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/0y3tjyknjd-{0}-mwotn65ofp-mwotn65ofp.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/compressed/nw9e27khzv-{0}-mwotn65ofp-mwotn65ofp.gz
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/staticwebassets.build.json
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/staticwebassets.build.json.cache
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/staticwebassets.development.json
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/swae.build.ex.cache
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/Easy Help.dll
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/refint/Easy Help.dll
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/Easy Help.pdb
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/Easy Help.genruntimeconfig.cache
+/Users/103604/RiderProjects/Easy Help/Easy Help/obj/Debug/net10.0/ref/Easy Help.dll
